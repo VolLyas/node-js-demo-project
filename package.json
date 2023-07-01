@@ -1,0 +1,23 @@
+{
+  "name": "node-js-demo-project",
+  "version": "0.0.1",
+  "description": "Simple nodejs demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/vova.lyashik/node-js-demo-project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "demo"
+  ],
+  "author": "VlaLyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vova.lyashik/node-js-demo-project/issues"
+  },
+  "homepage": "https://gitlab.com/vova.lyashik/node-js-demo-project#readme"
+}
